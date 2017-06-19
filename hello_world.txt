@@ -1,3 +1,5 @@
 Hello world!
 This is a new change!
 This should show up on GitHub.
+
+This change was made directly on GitHub
